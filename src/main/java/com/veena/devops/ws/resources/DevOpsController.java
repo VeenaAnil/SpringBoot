@@ -9,7 +9,7 @@ public class DevOpsController {
 
 	@RequestMapping(path="/welcome")
 	public String welcome() {
-		return "Lets start our DevOps Journey dear";
+		return "Lets start our DevOps Journey dear -Get Ready";
 		
 	}
 }
